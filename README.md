@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Moeen and I'm a Full Stack Web Developer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Muhammad Moeen and I'm a MERN/DERN Stack Web Developer, from Pakistan</h2>
 
 ###
 
