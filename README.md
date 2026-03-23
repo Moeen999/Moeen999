@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Moeen and I'm a FULL STACK (MERN/DERN/PERN) Web Developer</h2>
+<h2 align="left">Full-Stack Developer(MERN/PERN) | JavaScript & TypeScript | React.js | Next.js | Node.js | Express.js | SQL & NoSQL Databases | Git & GitHub</h2>
 
 ###
 
