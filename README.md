@@ -33,4 +33,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMoeen999&style=for-the-badge)](https://rankistan.dev)
