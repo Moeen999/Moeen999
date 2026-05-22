@@ -1,7 +1,10 @@
 <h2 align="left">Full-Stack Developer(MERN/PERN) | JavaScript & TypeScript | React.js | Next.js | Node.js | Express.js | SQL & NoSQL Databases | Git & GitHub</h2>
 
 ###
-
+<h2>My CountryWide Ranking: </h2>
+<a href="https://rankistan.dev">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMoeen999&style=for-the-badge" alt="Rankistan rank badge">
+</a>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -33,4 +36,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
-[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMoeen999&style=for-the-badge)](https://rankistan.dev)
